@@ -3,7 +3,7 @@ name: "[Fix] 제목"
 about: 버그 및 에러 관련 이슈
 title: "[Fix] 제목"
 labels: fix
-assignees: skyblue1232
+assignees: ''
 
 ---
 
