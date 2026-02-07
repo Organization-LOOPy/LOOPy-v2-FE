@@ -1,0 +1,11 @@
+{
+  "extends": "@loopy/typescript-config/react.json",
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"]
+    }
+  },
+  "include": ["src", "vite.config.ts"],
+  "exclude": ["node_modules"]
+}
